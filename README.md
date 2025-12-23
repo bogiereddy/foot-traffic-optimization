@@ -63,3 +63,7 @@ traffic from 2020 to 2024.
 2. run the streamlit app:
  ``` bash
     python -m streamlit run apppy.py
+
+3.Open the browser:
+http://localhost:8501
+
