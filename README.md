@@ -1,4 +1,4 @@
-# foot-traffic-optimization
+
 # Foot Traffic Optimization Using Machine Learning
 
 ## 📌 Project Overview
