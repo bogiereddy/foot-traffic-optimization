@@ -60,3 +60,6 @@ traffic from 2020 to 2024.
 1. Install required libraries:
    ```bash
    pip install -r requirements.txt
+2. run the streamlit app:
+ ``` bash
+    python -m streamlit run apppy.py
